@@ -41,3 +41,11 @@ This seed is informed by the [OWASP GenAI Security Project](https://genai.owasp.
 ## Join in
 
 If this problem interests you, start with the first milestone above. Open an issue to discuss scope before building a large feature, or send a small pull request with a test and a clear explanation. Contributors from security, engineering, research, design, and documentation are all welcome.
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for prompt-diff-review](assets/pixel-art.svg)
+
+A small visual signature for this repository.
